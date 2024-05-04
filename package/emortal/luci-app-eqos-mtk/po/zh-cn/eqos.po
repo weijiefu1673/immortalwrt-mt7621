@@ -11,7 +11,7 @@ msgstr ""
 
 
 msgid "EQoS"
-msgstr "网速控制（MT7621支持有线上下行，无线下行）"
+msgstr "EQoS网速控制"
 
 
 msgid "eqos"
